@@ -5,6 +5,8 @@
 
 🔗  Download the dataset (AAPL_STOCKS_2023.xlsx) from this github and store it locally. This contains the Closed stock prices of Apple for the   year 2023.
 
+[📈  This data was collected from Quantrocket Platform]
+
 🔧  **Update the Drive Path**
      =======>   prices = pd.read_excel('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 
