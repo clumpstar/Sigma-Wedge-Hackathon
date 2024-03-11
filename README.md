@@ -1,7 +1,7 @@
 # Sigma-Wedge-Hackathon
 
 
-**###Instructions to run:**
+###**Instructions to run:**
 
 🔗  Download the dataset (AAPL_STOCKS_2023.xlsx) from this github repository and store it locally. This contains the Closed stock prices of Apple for the   year 2023.
 
