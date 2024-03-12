@@ -8,7 +8,7 @@
 [📈  This data was collected from the [Quantrocket](https://www.quantrocket.com/) Platform]
 
 🔧  **Update the Drive Path**
-     =======>   prices = pd.read_excel('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+     =======>   prices = pd.read_excel('path_to_excel_file.xlsx')
 
 🚀  Run all the code sections
 
